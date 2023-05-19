@@ -1,1 +1,1 @@
-# Philippine-Receipt-Tool
+Philippine Receipt Tool
