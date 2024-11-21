@@ -1,0 +1,7 @@
+{
+    "UpdateVersion":"3.4.0.1",
+    "UpdateLink":"https://drive.google.com/file/d/1_NXIP4Gf6553jnuRZBjiy4yg-jvFeTaM/view?usp=share_link",
+    "UpdateFile":"setup.exe",
+    "UpdateChangelog":"• The disruptive event that causes latency on low-end PCs has been resolved\r\n• Security Improvement",
+    "ForceUpdate":true
+}
