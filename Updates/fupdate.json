@@ -1,6 +1,6 @@
 {
     "UpdateVersion":"3.4.0.2",
-    "UpdateLink":"https://drive.google.com/file/d/1taobZRMmslY8tyczCaY8LRcppr-okSqw/view?usp=sharing",
+    "UpdateLink":"https://drive.google.com/file/d/1taobZRMmslY8tyczCaY8LRcppr-okSqw",
     "UpdateFile":"setup.exe",
     "UpdateChangelog":"• Fixed \"Force Update\"\r\n• Displaying \"About\" in an unlicensed software\r\n• Fixed software server\r\n• Software ID is displayed in the \"Register Form\"\r\n• \"Inlcude Non-VAT in VAT 12% Data\" feature is added in \"Columnar Input\", see help.\r\n• Minor Improvements to the debugging log",
     "ForceUpdate":true
