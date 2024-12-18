@@ -1,0 +1,144 @@
+v3.5.0.0 (2024-12-19)
+    • Fixed "Force Update"
+    • Displaying "About" in an unlicensed software
+    • Fixed software server
+    • Software ID is displayed in the "Register Form"
+    • "Inlcude Non-VAT in VAT 12% Data" feature is added in "Columnar Input"
+    • Minor Improvements to the debugging log
+
+v3.4.0.3 (2023-06-02)
+    • Able to input negative on cents differential
+    • Minor improvements
+
+v3.4.0.2 (2023-05-11)
+    • Server connection error fixed
+    • Replacing update type to update date
+    • Security Improvements
+
+v3.4.0.1 (Release)
+    • The disruptive event that causes latency on low-end PCs has been resolved
+    • Security Improvements
+
+v3.4.0.0 (Release)
+    • Security Improvements
+    • Force update is mandatory
+
+v3.3.0.1 (Beta)
+    • Minor Improvements
+
+v3.3.0.0 (Beta)
+    • New Security & Improvements
+    • Startup Minor Improvents
+
+v3.2.0.3 (Release)
+    • Adding new "Rounded" option to correct rounding unit miscalculation.
+    • Show VAT Inclusive Sales when non-VAT sales are used.
+    • Minor Improvements
+
+v3.2.0.2 (Release)
+    • Fix amount in words difficult to acquire accurate translation in above a hundred thousand
+    • Withholding tax now has a new percentage option
+    • Added new option for VAT and Non-VAT calculations
+    • Information Improvements
+
+v3.2.0.1 (Release)
+    • Fix unbalanced data during application of cents differential
+    • Information Improvements
+
+v3.2.0.0 (Release)
+    • Security Improvements
+    • Total Sales Sum added to Columnar Input
+    • Added Colunmar Input "Reset" Button
+
+v3.1.0.1 (Release)
+    • Fix numbers filter in "Columnar Input" inputbox fields
+    • Show border lines instead of drop shadow for non-earo enable windows
+    • Minor Improvements
+
+v3.1.0.0 (Release)
+    • Fix Decimal Point Showing In ComboBox
+    • Fix unable to input during text selection
+    • Protection Improvement
+    • Flatten Interior UI
+    • Cash Breakdown is now available
+
+v3.0.0.0 (Release)
+    • New UI (Dark Materialize Theme)
+
+v2.2.2.3 (Release)
+    • Fix error when checking update at "No Network".
+    • Add status label
+    • Add 5% option for SC / PWD Discount
+    • Future Update "Cash Breakdown"
+
+v2.2.2.2 (Release)
+    • Auto calculate by unit when discountable multiplier is more than 1
+    • Add "Show Currency" option.
+
+v2.2.2.1 (Release)
+    • Adding download progress bar
+    • Minor improvements
+
+v2.2.2.0 (Release)
+    • Fix "decimal point only" Error in input box
+    • Add New feature: Amount In Words
+    • Minor improvements
+
+v2.2.1.2 (Release)
+    • "Check Update" available
+    • Minor improvements
+
+v2.2.1.1 (Beta)
+    • Status: "Check Update" in file option (Beta only not yet finalize)
+    • Fix "Object error in checking update"
+    • Use "GROSS" caculation to default
+    • Under monitoring state
+
+v2.2.1.0 (Beta)
+    • Additional dependencies added
+    • Adding "Check Update" in file option (Beta only not yet finalize)
+    • Minor improvements
+    • Under monitoring state
+
+v2.2.0.2 (Release)
+    • Adding "Cents Differential" adjustment feature 
+    • Minor improvements
+
+v2.2.0.1 (Release)
+    • Adding Changelog in File option
+    • Enabling Help option
+    • Fixing Withholding Tax not deducting in the VATable Sales
+    • Adding Withholding Tax auto 2-5% radio buttons
+    • Minor improvements
+
+v2.2.0.0 (Release)
+    • Adding per "UNIT" and "GROSS" calculation
+    • Adding "Additional Amount" fields
+    • Enabling Zero-Rated Sales Option
+    • Fixed columnar fields can't input VATExempt data only
+
+v2.1.0.1 (Release)
+    • Adding Registered information in AboutUs option
+    • Minor improvements
+
+v2.1.0.0 (Release)
+    • Additional dependencies added
+    • Adding License
+    • Replace package from "Philippine Official Receipt Tool" to
+       "Philippine Receipt Tool"
+    • Remove multi-instance warning
+    • Auto call app in system tray when new instance is called
+
+v2.0.0.1 (Debug)
+    • Remove splash activity
+    • Under maintenance
+
+v2.0.0.0 (Debug)
+    • Redo calculation inputs columnar fields
+    • Fixing VATExempt fields mis-input amount
+    • Add warning for unavailability of Zero-Rated Sales Calculation
+    • Under maintenance
+
+v1.0.0.0 (Debug)
+    • First lunch
+    • Under maintenance
