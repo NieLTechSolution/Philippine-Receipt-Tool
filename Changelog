@@ -1,3 +1,20 @@
+v3.5.0.0 (2024-12-19)
+    • Fixed "Force Update"
+    • Displaying "About" in an unlicensed software
+    • Fixed software server
+    • Software ID is displayed in the "Register Form"
+    • "Inlcude Non-VAT in VAT 12% Data" feature is added in "Columnar Input"
+    • Minor Improvements to the debugging log
+
+v3.4.0.3 (2023-06-02)
+    • Able to input negative on cents differential
+    • Minor improvements
+
+v3.4.0.2 (2023-05-11)
+    • Server connection error fixed
+    • Replacing update type to update date
+    • Security Improvements
+
 v3.4.0.1 (Release)
     • The disruptive event that causes latency on low-end PCs has been resolved
     • Security Improvements
